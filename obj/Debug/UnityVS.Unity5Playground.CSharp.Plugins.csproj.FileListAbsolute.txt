@@ -1,0 +1,11 @@
+F:\Documents\Game Stuff\Unity5Playground\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+F:\Documents\Game Stuff\Unity5Playground\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\Documents\Game Stuff\Unity5Playground\Temp\UnityVS_bin\Debug\UnityEditor.dll
+F:\Documents\Game Stuff\Unity5Playground\Temp\UnityVS_bin\Debug\UnityEngine.dll
+F:\Documents\Game Stuff\Unity5Playground\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+F:\Documents\Game Stuff\Unity5Playground\Temp\UnityVS_bin\Debug\UnityEngine.xml
+F:\Documents\Game Stuff\Unity5Playground\Temp\UnityVS_bin\Debug\UnityEditor.xml
+F:\Documents\Game Stuff\Unity5Playground\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+F:\Documents\Game Stuff\Unity5Playground\obj\Debug\UnityVS.Unity5Playground.CSharp.Plugins.csprojResolveAssemblyReference.cache
+F:\Documents\Game Stuff\Unity5Playground\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\Documents\Game Stuff\Unity5Playground\obj\Debug\Assembly-CSharp-firstpass.pdb
